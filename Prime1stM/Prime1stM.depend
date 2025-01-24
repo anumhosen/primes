@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1737738097 source:d:\programming\primes\prime1stm\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+

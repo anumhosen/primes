@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1737745941 source:d:\programming\primes\primedb\main.cpp
+	<iostream>
+	<sqlite3.h>
+	<string>
+

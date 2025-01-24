@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1737745420 source:d:\programming\primes\primemulticore\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cmath>
+	<thread>
+	<mutex>
+	<atomic>
+
